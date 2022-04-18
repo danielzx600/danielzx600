@@ -1,4 +1,4 @@
-<h3 align="left">I'm a developer based in New York. Some of my favorite hobbies are learning new skills and working out! Regarding my programming journey, I have skills in JavaScript & React and also have experience with Web 3.0 & Python and much more!</h3>
+<h3 align="left">I'm a developer based in New York. Some of my favorite hobbies are learning new skills and working out! Regarding my programming journey, I have skills in JavaScript & React and also have experience with Web3.0 & Python and much more!</h3>
 
 
 
